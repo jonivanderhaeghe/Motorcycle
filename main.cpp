@@ -1,6 +1,6 @@
 #include <iostream>
-#include "motorcycle.h"
-#include "engine.h"
+#include "lib/motorcycle.h"
+#include "lib/engine.h"
 using namespace std;
 int main(){
 
